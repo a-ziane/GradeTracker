@@ -1,0 +1,214 @@
+[
+    {
+        "name": "Math 225",
+        "a_threshold": 93.0,
+        "sections": [
+            {
+                "name": "Homework",
+                "weight": 0.1,
+                "grade": 98.0,
+                "counts": true,
+                "modifiable": true
+            },
+            {
+                "name": "Quiz",
+                "weight": 0.15,
+                "grade": 95.0,
+                "counts": true,
+                "modifiable": true
+            },
+            {
+                "name": "Midterm 1",
+                "weight": 0.2,
+                "grade": 93.7,
+                "counts": true,
+                "modifiable": true
+            },
+            {
+                "name": "Midterm 2",
+                "weight": 0.2,
+                "grade": 95.0,
+                "counts": true,
+                "modifiable": true
+            },
+            {
+                "name": "Final",
+                "weight": 0.35,
+                "grade": 92.0,
+                "counts": true,
+                "modifiable": true
+            }
+        ]
+    },
+    {
+        "name": "Math 407",
+        "a_threshold": 93.0,
+        "sections": [
+            {
+                "name": "Homework",
+                "weight": 0.4,
+                "grade": 100.0,
+                "counts": true,
+                "modifiable": true
+            },
+            {
+                "name": "Midterm 1",
+                "weight": 0.15,
+                "grade": 82.0,
+                "counts": true,
+                "modifiable": true
+            },
+            {
+                "name": "Midterm 2",
+                "weight": 0.15,
+                "grade": 90.0,
+                "counts": true,
+                "modifiable": true
+            },
+            {
+                "name": "Final",
+                "weight": 0.3,
+                "grade": 92.0,
+                "counts": true,
+                "modifiable": true
+            }
+        ]
+    },
+    {
+        "name": "Musc 102",
+        "a_threshold": 93.0,
+        "sections": [
+            {
+                "name": "Field Essay 1",
+                "weight": 0.1,
+                "grade": 100.0,
+                "counts": true,
+                "modifiable": true
+            },
+            {
+                "name": "Field Essay 2",
+                "weight": 0.1,
+                "grade": 100.0,
+                "counts": true,
+                "modifiable": true
+            },
+            {
+                "name": "Analytical Essay 1",
+                "weight": 0.1,
+                "grade": 100.0,
+                "counts": true,
+                "modifiable": true
+            },
+            {
+                "name": "Analytical Essay 2",
+                "weight": 0.1,
+                "grade": 100.0,
+                "counts": true,
+                "modifiable": true
+            },
+            {
+                "name": "Midterm",
+                "weight": 0.15,
+                "grade": 90.0,
+                "counts": true,
+                "modifiable": true
+            },
+            {
+                "name": "Final",
+                "weight": 0.15,
+                "grade": 90.0,
+                "counts": true,
+                "modifiable": true
+            },
+            {
+                "name": "Final Project",
+                "weight": 0.3,
+                "grade": 100.0,
+                "counts": true,
+                "modifiable": true
+            }
+        ]
+    },
+    {
+        "name": "CSCI 104",
+        "a_threshold": 90.0,
+        "sections": [
+            {
+                "name": "Homework",
+                "weight": 0.28,
+                "grade": 88.5,
+                "counts": true,
+                "modifiable": true
+            },
+            {
+                "name": "Lab",
+                "weight": 0.1,
+                "grade": 100.0,
+                "counts": true,
+                "modifiable": true
+            },
+            {
+                "name": "Exam 1 (low)",
+                "weight": 0.16,
+                "grade": 80.0,
+                "counts": true,
+                "modifiable": true
+            },
+            {
+                "name": "Exam 2 (median)",
+                "weight": 0.2,
+                "grade": 90.0,
+                "counts": true,
+                "modifiable": true
+            },
+            {
+                "name": "Exam 3 (high)",
+                "weight": 0.26,
+                "grade": 95.0,
+                "counts": true,
+                "modifiable": true
+            }
+        ]
+    },
+    {
+        "name": "TAC 303",
+        "a_threshold": 95.0,
+        "sections": [
+            {
+                "name": "Homework",
+                "weight": 0.45,
+                "grade": 100.5,
+                "counts": true,
+                "modifiable": true
+            },
+            {
+                "name": "Participation",
+                "weight": 0.05,
+                "grade": 99.0,
+                "counts": true,
+                "modifiable": true
+            },
+            {
+                "name": "Frontend Exam",
+                "weight": 0.15,
+                "grade": 96.0,
+                "counts": true,
+                "modifiable": true
+            },
+            {
+                "name": "Backend Exam",
+                "weight": 0.15,
+                "grade": null,
+                "counts": true,
+                "modifiable": true
+            },
+            {
+                "name": "Final Project",
+                "weight": 0.2,
+                "grade": null,
+                "counts": true,
+                "modifiable": true
+            }
+        ]
+    }
+]
